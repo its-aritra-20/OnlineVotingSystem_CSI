@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="box" onmouseover="this.style.backgroundColor='blue'"> Mouse Over me to change my background color!</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\user\Documents\Aritra\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2590122632.index
+1554056729.index
+2225854154.index
+2014232589.index
+866663856.index
+1417401784.index
